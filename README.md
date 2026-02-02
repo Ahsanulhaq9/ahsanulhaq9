@@ -1,44 +1,52 @@
 <!-- Profile README for GitHub: Ahsanulhaq9/Ahsanulhaq9 -->
 
 <h1 align="center">Hi 👋 I'm Md. Ahsanul Haq</h1>
+
 <p align="center">
-  Assistant Manager • Senior Data Engineer<br>
-  ETL • Web Scraping • Data Pipelines • AWS
+  <b>Assistant Manager • Senior Data Engineer</b><br/>
+  ETL • Web Scraping • Data Pipelines • AWS • Spark
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahsanul-haq/" target="_blank">LinkedIn</a> •
   <a href="mailto:ahsanulhaq1589@gmail.com">Email</a> •
-  <a href="tel:+8801521210566">Phone</a> •
   <a href="https://github.com/Ahsanulhaq9">GitHub</a>
 </p>
 
 <p align="center">
-  <a href="./assets/Md_Ahsanul_Haq_Data_Engineer.pdf" target="_blank"><b>⬇️ Download CV</b></a>
+  <!-- ✅ Choose ONE of the following lines for CV -->
+
+  <!-- OPTION A (root file with space): -->
+  <a href="./Md_Ahsanul%20Haq_Data_Engineer.pdf" target="_blank"><b>⬇️ Download CV</b></a>
+
+  <!-- OPTION B (assets folder): -->
+  <!-- <a href="./assets/Md_Ahsanul_Haq_Data_Engineer.pdf" target="_blank"><b>⬇️ Download CV</b></a> -->
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-I’m a **Data Engineer with 6+ years of experience** in building stable and scalable data systems, web-scraped ETL pipelines, automated workflows, and analytics tooling.
+I’m a **Data Engineer with 7+ years of experience** building stable and scalable data systems, web-scraped ETL pipelines, automated workflows, and analytics tooling.
 
-At present, I work as **Assistant Manager, Senior Data Engineer at Cliqpack Ltd** — architecting data ingestion, transformation & delivery solutions.
+Currently, I work as **Assistant Manager, Senior Data Engineer at Cliqpack Ltd** — architecting data ingestion, transformation & delivery solutions.
 
 ---
 
 ## 📬 Ways to Connect
 - **Email:** ahsanulhaq1589@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/ahsanul-haq/  
-- **Phone:** +8801521210566  
 - **Location:** Dhaka, Bangladesh
+
+> ⚠️ Tip: I removed public phone from the main block to reduce spam/bots.
+> If you still want it: `+8801521210566`
 
 ---
 
 ## 🚀 Currently Working On
-- Automated **ETL pipelines** & scalable workflows
-- Data ingestion frameworks using **Python, Selenium, Airflow**
-- Cloud-native processing on **AWS RDS, S3**
-- Exploring **Apache Spark / PySpark** for big data processing
+- Automated **ETL pipelines** & scalable workflows  
+- Data ingestion frameworks using **Python, Selenium, Airflow**  
+- Cloud-native processing on **AWS RDS, S3**  
+- Exploring **Apache Spark / PySpark** for big data processing  
 
 ---
 
@@ -47,7 +55,7 @@ At present, I work as **Assistant Manager, Senior Data Engineer at Cliqpack Ltd*
 - School data scraping & transformation engine  
 - Python + Selenium powered ETL  
 - Grading & ranking analytics portal  
-👉 https://eduinsight-front.cliqpack.com/
+👉 https://eduinsight.com.au/
 
 ### 🔹 CliqProperty Data Engine
 - Unified scraping → ETL → AWS RDS pipelines  
@@ -60,13 +68,12 @@ At present, I work as **Assistant Manager, Senior Data Engineer at Cliqpack Ltd*
 
 ---
 
-## 💻 Tech Stack
-
+## 🧰 Tech Stack
 **Languages:** Python • SQL • JavaScript • C • C++ • MATLAB  
 **Data & ETL:** Pandas • NumPy • Selenium • Scrapy • Airflow • PySpark  
 **Databases:** MySQL • PostgreSQL • SQLite • AWS RDS  
 **Cloud:** AWS • S3  
-**Tools:** Git • Postman • Tableau • Power BI
+**Tools:** Git • Postman • Tableau • Power BI  
 
 ---
 
@@ -91,10 +98,13 @@ At present, I work as **Assistant Manager, Senior Data Engineer at Cliqpack Ltd*
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ahsanulhaq9&show_icons=true&theme=dark" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsanulhaq9&layout=compact&theme=dark" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://streak-stats.demolab.com?user=Ahsanulhaq9&theme=dark" />
 </p>
 
 ---
