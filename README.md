@@ -1,10 +1,14 @@
 <!-- Profile README for GitHub: Ahsanulhaq9/Ahsanulhaq9 -->
 
-<h1 align="center">Hi 👋 I'm Md. Ahsanul Haq</h1>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/Ahsanulhaq9" width="160" style="border-radius: 50%;" />
+</p>
+
+<h1 align="center">Md. Ahsanul Haq</h1>
 
 <p align="center">
-  <b>Assistant Manager • Senior Data Engineer</b><br/>
-  ETL • Web Scraping • Data Pipelines • AWS • Spark
+  <b>Assistant Manager · Senior Data Engineer</b><br/>
+  Large-Scale ETL • Web Scraping Systems • Data Pipelines • AWS • Spark
 </p>
 
 <p align="center">
@@ -14,90 +18,119 @@
 </p>
 
 <p align="center">
-  <!-- ✅ Choose ONE of the following lines for CV -->
+  <!-- ✅ Keep ONLY the line that matches your CV location -->
 
-  <!-- OPTION A (root file with space): -->
+  <!-- If CV is in repo root -->
   <a href="./Md_Ahsanul%20Haq_Data_Engineer.pdf" target="_blank"><b>⬇️ Download CV</b></a>
 
-  <!-- OPTION B (assets folder): -->
+  <!-- If CV is inside assets/ -->
   <!-- <a href="./assets/Md_Ahsanul_Haq_Data_Engineer.pdf" target="_blank"><b>⬇️ Download CV</b></a> -->
 </p>
 
 ---
 
-## 👨‍💻 About Me
-I’m a **Data Engineer with 7+ years of experience** building stable and scalable data systems, web-scraped ETL pipelines, automated workflows, and analytics tooling.
+## 👨‍💻 Professional Summary
+Senior **Data Engineer with 7+ years of industry experience** designing, building, and operating **production-grade data pipelines**.
 
-Currently, I work as **Assistant Manager, Senior Data Engineer at Cliqpack Ltd** — architecting data ingestion, transformation & delivery solutions.
+I specialize in:
+- Large-scale **web scraping & ingestion frameworks**
+- Fault-tolerant **ETL/ELT pipelines**
+- **Cloud-native data architectures (AWS)**
+- Analytics-ready datasets for **decision systems & dashboards**
 
----
-
-## 📬 Ways to Connect
-- **Email:** ahsanulhaq1589@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/ahsanul-haq/  
-- **Location:** Dhaka, Bangladesh
-
-> ⚠️ Tip: I removed public phone from the main block to reduce spam/bots.
-> If you still want it: `+8801521210566`
+Currently working as **Assistant Manager, Senior Data Engineer at Cliqpack Ltd**, contributing to multi-product data platforms used across **property-tech, education analytics, and e-commerce**.
 
 ---
 
-## 🚀 Currently Working On
-- Automated **ETL pipelines** & scalable workflows  
-- Data ingestion frameworks using **Python, Selenium, Airflow**  
-- Cloud-native processing on **AWS RDS, S3**  
-- Exploring **Apache Spark / PySpark** for big data processing  
+## 🧠 Core Engineering Expertise
+- End-to-end **data lifecycle ownership** (source → ingestion → transformation → storage → analytics)
+- Designing **resilient scraping systems** for JS-heavy & protected websites
+- Schema normalization, deduplication, validation & enrichment
+- Performance optimization for **high-volume pipelines**
+- Data quality monitoring & recovery strategies
 
 ---
 
-## ⭐ Featured Projects
-### 🔹 EduInsight
-- School data scraping & transformation engine  
-- Python + Selenium powered ETL  
-- Grading & ranking analytics portal  
-👉 https://eduinsight.com.au/
-
-### 🔹 CliqProperty Data Engine
-- Unified scraping → ETL → AWS RDS pipelines  
-- Dataset normalization & delivery services  
-👉 https://cliqproperty.io/
-
-### 🔹 Ahiri Dataset Tools
-- E-commerce dataset processing & parsing  
-👉 https://ahiri.ca/
+## 🏗️ Systems & Platforms I Build
+- **Scraping engines** (Selenium / Scrapy / custom Python frameworks)
+- **ETL pipelines** (batch & incremental)
+- **Cloud data stores** (AWS RDS, S3)
+- **Analytics-ready datasets** for BI & ML
+- Ranking, grading & scoring engines (education & business data)
 
 ---
 
-## 🧰 Tech Stack
-**Languages:** Python • SQL • JavaScript • C • C++ • MATLAB  
-**Data & ETL:** Pandas • NumPy • Selenium • Scrapy • Airflow • PySpark  
-**Databases:** MySQL • PostgreSQL • SQLite • AWS RDS  
-**Cloud:** AWS • S3  
-**Tools:** Git • Postman • Tableau • Power BI  
+## 🚀 Current Focus
+- Production ETL pipelines using **Python, Pandas, Airflow**
+- High-reliability ingestion → **AWS RDS / S3**
+- Exploring **Apache Spark / PySpark** for distributed processing
+- Data platforms supporting **EduInsight & CliqProperty**
 
 ---
 
-## 📍 Work Experience
-- **Assistant Manager, Sr Data Engineer** — Cliqpack Ltd (Feb 2024 – Present)  
-- **Data Engineer** — Apurba Technologies Ltd (Mar 2022 – Feb 2024)  
-- **Data Engineer (AI / NLP / Blockchain)** — eGeneration PLC (Apr 2019 – Feb 2022)  
+## ⭐ Featured Engineering Work
+
+### 🔹 EduInsight — Educational Data Intelligence Platform
+- Automated extraction from multiple government & institutional portals
+- Complex transformations, scoring & ranking logic
+- Python + Selenium powered ingestion
+- Used for large-scale school performance analytics  
+🔗 https://eduinsight.com.au/
+
+---
+
+### 🔹 CliqProperty — Property-Tech Data Platform
+- Unified scraping → ETL → AWS delivery pipelines
+- Region-aware data normalization
+- Multi-tenant dataset architecture  
+🔗 https://cliqproperty.io/
+
+---
+
+### 🔹 Ahiri — E-commerce Dataset Engineering
+- Structured product & market data pipelines
+- Data cleansing, aggregation & analytics  
+🔗 https://ahiri.ca/
+
+---
+
+## 🧰 Technical Stack
+
+### Programming & Query
+`Python` • `SQL` • `JavaScript` • `C` • `C++` • `MATLAB`
+
+### Data Engineering
+`Pandas` • `NumPy` • `Selenium` • `Scrapy` • `Airflow` • `PySpark`
+
+### Databases & Storage
+`MySQL` • `PostgreSQL` • `SQLite` • `AWS RDS` • `AWS S3`
+
+### Cloud & Big Data
+`AWS` • `Apache Spark`
+
+### Visualization & BI
+`Tableau` • `Power BI` • `Matplotlib` • `Seaborn`
+
+### Dev & Collaboration
+`Git` • `GitHub` • `Postman` • `Swagger`
+
+---
+
+## 📍 Experience
+- **Assistant Manager, Senior Data Engineer** — Cliqpack Ltd (Feb 2024 – Present)
+- **Data Engineer** — Apurba Technologies Ltd (Mar 2022 – Feb 2024)
+- **Data Engineer (AI / NLP / Blockchain)** — eGeneration PLC (Apr 2019 – Feb 2022)
 - **Trainee Executive (Data Science & Analytics)** — eGeneration PLC (Jan 2019 – Mar 2019)
 
 ---
 
 ## 🎓 Education
-- **M.Sc in Computer Science** — Jahangirnagar University (2025)  
-- **B.Sc in EEE** — Ahsanullah University of Science and Technology (2019)
+- **M.Sc. in Computer Science** — Jahangirnagar University (2025)
+- **B.Sc. in EEE** — Ahsanullah University of Science & Technology (2019)
 
 ---
 
-## 🏆 Selected Certifications
-- FTFL (LICT/BCC) — Data Science & AI  
-- Multiple Coursera certificates: Data Science, SQL, Tableau, Excel
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ahsanulhaq9&show_icons=true&theme=dark" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsanulhaq9&layout=compact&theme=dark" />
@@ -109,6 +142,6 @@ Currently, I work as **Assistant Manager, Senior Data Engineer at Cliqpack Ltd**
 
 ---
 
-## 🔗 Quick Links
-- 📁 GitHub: https://github.com/Ahsanulhaq9  
-- 🔗 LinkedIn: https://www.linkedin.com/in/ahsanul-haq/
+## 🔗 Links
+- GitHub: https://github.com/Ahsanulhaq9  
+- LinkedIn: https://www.linkedin.com/in/ahsanul-haq/
